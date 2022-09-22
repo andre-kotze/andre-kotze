@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+    <img src="./andre_gis_logo_88.png" alt="andregis_logo">
+</div>
+
 
 <!--
 **andre-kotze/andre-kotze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
