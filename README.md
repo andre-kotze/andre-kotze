@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I'm currently working in wind turbine micrositing optimisation
-- 🌱 My main focus is creating user-friendly QGIS Plugins to support renewable energy developments
+- 🌱 My main focus is on creating accurate and user-friendly geospatial software, geoprocessing workflows and QGIS Plugins to support renewable energy developments
 - 🌱 I’m currently learning C++ and Julia
 <!--
 - 👯 I’m looking for the most efficient algorithm for intersection checking between 3D lines and polyhedrons
