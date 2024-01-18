@@ -3,9 +3,11 @@
 </div>
 <br>
 
-- 🔭 I'm currently working in wind turbine micrositing optimisation
-- 🌱 My main focus is on creating accurate and user-friendly geospatial software, geoprocessing workflows and QGIS Plugins to support renewable energy developments
-- 🌱 I’m currently learning C++ and Julia
+- 🔭 I'm currently working in wind turbine micrositing optimisation (for money)
+- 🌴 I'm also working on a travel tracking app (for fun)
+- 🌱 My professional focus is on creating accurate and user-friendly geospatial software, geoprocessing workflows and QGIS Plugins to support renewable energy developments
+- 🌍 I’m currently learning C++ and Julia
+- 🎱 My interests include applied AI, renewable energy, automation and visualisation
 <!--
 - 👯 I’m looking for the most efficient algorithm for intersection checking between 3D lines and polyhedrons
 - 🤔 I’m also looking for work
